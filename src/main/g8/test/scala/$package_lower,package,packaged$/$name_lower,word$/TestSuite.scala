@@ -1,4 +1,5 @@
 
+/*
 package $package;format="lower,package"$
 package $name;format="lower,word"$
 
@@ -31,7 +32,6 @@ trait TestSuite
         org.scalacheck.Gen[A]
 
      final protected val Gen: org.scalacheck.Gen.type = 
-        org.scalacheck.Gen
-    
+        org.scalacheck.Gen   
 }
-
+*/
