@@ -1,0 +1,12 @@
+*.worksheet.sc
+.ammonite/
+.bloop/
+.bsp/
+.dotty-ide*
+.idea/
+.metals/
+.scala-builds/
+.scala/
+.vscode/
+.metals.sbt/
+target/

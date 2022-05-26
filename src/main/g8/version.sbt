@@ -1,0 +1,1 @@
+ThisBuild / versin := "0.0.0-DEV-SNAPSHOT"
